@@ -1,0 +1,144 @@
+.border{
+    background-color: #bbb2b2;
+    width: 660px;
+    height: 220px;
+    position: absolute;
+    top: 30px;
+    left: 250px;
+    border-radius: 10px;
+}
+.parent{
+    background-color: aliceblue;
+    width: 610px;
+    height: 200px;
+    box-shadow: 10px 10px 10px rgb(181, 185, 188);
+    position: absolute;
+    left: 26px;
+    top: 20px;
+    display: flex;
+    
+}
+.img1{
+    border-radius: 50%;
+    margin-left:15px;
+    margin-top: 35px;
+}
+.pre1{
+    position: absolute;
+    top:30px;
+    left:-14px;
+    opacity:0.7;
+
+}
+.img2{
+    border-radius: 50%;
+    position: absolute;
+  left:160px;
+  bottom:112px;
+   
+}
+.pre2{
+    position: absolute;
+    left: 130px;
+    bottom: 112px;
+    opacity:0.7;
+}
+.img3{
+    border-radius: 50%;
+    position: absolute;
+  left:324px;
+  bottom:112px;
+}
+.pre3{
+    position: absolute;
+    left: 260px;
+    bottom: 112px;
+    opacity:0.7;
+}
+.img4{
+    border-radius: 50%;
+    position: absolute;
+  left:460px;
+  bottom:119px;
+    
+}
+.pre4{
+    position: absolute;
+    left: 400px;
+    bottom: 112px;
+    opacity:0.7;
+
+}
+.img5{
+    border-radius: 50%;
+    position: absolute;
+  left:15px;
+  bottom:30px;
+}
+.pre5{
+    position: absolute;
+    left:-45px;
+    bottom: 30px;
+    opacity:0.7;
+}.img6{
+    border-radius: 50%;
+    position: absolute;
+  left:160px;
+  bottom:30px;
+
+}
+.pre6{
+    position: absolute;
+    left:100px;
+    bottom: 30px;
+    opacity:0.7;
+
+}
+.img7{
+    border-radius: 50%;
+    position: absolute;
+  left:324px;
+  bottom:30px;
+
+}
+.pre7{
+    position: absolute;
+    left:265px;
+    bottom: 30px;
+    opacity:0.7;
+
+}
+.img8{
+    border-radius: 50%;
+    position: absolute;
+  left:460px;
+  bottom:30px;
+
+}
+.pre8{
+    position: absolute;
+    left:400px;
+    bottom: 30px;
+    opacity:0.7;
+
+}
+.p1{
+    position: absolute;
+    top: -10px;
+}
+.p2{
+    position: absolute;
+    top: -8px;
+    right: 20px;
+    font-size: 15px;
+}
+.filter{
+    position: absolute;
+    bottom: 1px;
+}
+.italic{
+    font-size: 12px;
+}
+    
+    
+
